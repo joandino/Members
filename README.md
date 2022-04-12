@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# How to use the project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Remember to have the api running on port 8081.
+
+Feel free to fill all the form data (or not to test the validations), also repeat on purpose the SSN number to test validation, get idle 2 minutes so you may see the table refreshing on its own (insert some member on Postman).
 
 ## Available Scripts
 
